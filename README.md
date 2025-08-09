@@ -94,7 +94,7 @@ I once worked for 5 hours straight and made a prototype from scratch for a hacka
 
 ![](https://github-readme-stats.vercel.app/api?username=Parth-bot-crypto26&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
 <br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Parth-bot-crypto26&theme=dark&hide_border=false)
+![](https://nirzak-streak-stats.vercel.app/?user=Parth-bot-crypto26&theme=dark&hide_border=false&random=123456)
 <br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-bot-crypto26&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
