@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://avatars.githubusercontent.com/u/84102987?v=4" width="150" style="border-radius:50%;border:3px solid #58A6FF;"/>
+<img src="https://github.com/Parth-bot-crypto26.png" width="150" style="border-radius:50%;border:3px solid #58A6FF;"/>
 
 <br/>
 
