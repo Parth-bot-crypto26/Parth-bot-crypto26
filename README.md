@@ -1,85 +1,88 @@
 <div align="center">
 
-<img src="https://github.com/Parth-bot-crypto26.png" width="150" style="border-radius:50%;border:3px solid #58A6FF;"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=26&duration=2800&pause=1000&color=58A6FF&center=true&vCenter=true&width=850&lines=Hi%2C+I'm+Parth+Deshpande;Systems+%26+ML+Engineer;Building+Vector+Databases+%26+RAG+Pipelines;B.Tech+CSE+(AI+%26+ML)+%40+VIT+Bhopal;Amazon+ML+Summer+School+'26+Selectee" alt="Typing SVG" />
 
 <br/>
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+there%2C+I'm+Parth+Deshpande+%F0%9F%91%8B;AI%2FML+%26+Full-Stack+Developer;Building+RAG+Pipelines+%26+Vector+DBs+from+Scratch;Codeforces+Pupil+%7C+900%2B+DSA+Problems+Solved" alt="Typing SVG" />
+<a href="https://parth-portfolio-beryl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/parth-deshpande-93578027b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:deshpandeparth793@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://codolio.com/profile/Ash_26"><img src="https://img.shields.io/badge/Codolio-6C3EF4?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 
-<br/>
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://parth-portfolio-beryl.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/parth-deshpande-93578027b/)
-[![Codeforces](https://img.shields.io/badge/Codeforces-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white)](https://codeforces.com/profile/Ash_26)
-[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/deshp_parth/)
-[![Codolio](https://img.shields.io/badge/Codolio-6C63FF?style=for-the-badge&logo=letsencrypt&logoColor=white)](https://codolio.com/profile/Ash_26)
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:deshpandeparth793@gmail.com)
+<p>
+  <img src="https://komarev.com/ghpvc/?username=Parth-bot-crypto26&label=Profile%20views&color=58A6FF&style=for-the-badge" alt="Profile views" />
+  <img src="https://img.shields.io/github/followers/Parth-bot-crypto26?logo=github&style=for-the-badge&color=58A6FF" alt="GitHub followers" />
+</p>
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🧑‍💻 About Me
+## 👨‍💻 About Me
 
-I'm a **Computer Science (AI & ML) undergrad** at VIT Bhopal University, building things that sit at the intersection of **systems engineering and applied AI** — from a vector database written in raw C++ to production-style RAG pipelines and full-stack platforms shipped for real users.
+```yaml
+role: Systems & Machine Learning Engineer
+education: B.Tech CSE (AI & ML) @ VIT Bhopal | CGPA: 8.97/10
+focus: Vector Databases · Distributed Backends · RAG Pipelines · Real-time Systems
+currently_building: Custom HNSW vector database in C++ with local LLM RAG
+currently_exploring: Agentic AI systems & large-scale backend architecture
+fun_fact: Once shipped a hackathon prototype from scratch in 5 hours → made the finals 🚀
+```
 
-- 🔭 Currently engineering **HNSW-based vector search** and **RAG pipelines** with local LLM inference
-- 🎓 Selected for **Amazon ML Summer School 2026** — top 2.2% of 1.34 lakh+ applicants
-- 🏆 **Codeforces Pupil** (max rating 1409) · **900+ DSA problems** solved across LeetCode, Codeforces & CodeChef
-- 🥈 Finalist, **HackTU 6.0** — top team among 3,500+ students, 800+ teams
-- 🌱 Currently deepening my work in **agentic AI systems** and **low-code AI automation**
-- 💬 Ask me about **systems-level C++, RAG architecture, computer vision pipelines, or full-stack shipping**
+- 🔭 Co-Founder & Backend Lead **@ VITAMIN EdTech** — FastAPI microservices backend serving 20,000+ students
+- 🏆 Selected for **Amazon ML Summer School 2026** — top 2.2% of 1.34 lakh+ applicants
+- 🧠 **Pupil** on Codeforces (1409) · 900+ DSA problems solved across LeetCode, Codeforces & CodeChef
+- 🥇 Finalist, **HackTU 6.0** — top team among 3,500+ participants, 800+ teams
+- 💬 Ask me about vector search, RAG pipelines, backend architecture, or competitive programming
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
-## 🛠️ Tech Stack
+## 🧰 Tech Stack
 
-<div align="center">
+<table>
+<tr>
+<td valign="top" width="50%">
 
 **Languages**
 <br/>
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white)
+<img src="https://skillicons.dev/icons?i=python,cpp,java,js,ts" />
 
-**AI / ML / Data**
+**AI / ML**
 <br/>
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/🤗%20HuggingFace-FFD21E?style=for-the-badge&logoColor=black)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge&logo=opencv&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" /> <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" /> <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=flat-square&logo=huggingface&logoColor=black" /> <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" /> <img src="https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikitlearn&logoColor=white" />
 
-**Web Development**
+</td>
+<td valign="top" width="50%">
+
+**Web & Backend**
 <br/>
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![Express](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,express,fastapi,tailwind" />
 
 **Databases & Infra**
 <br/>
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
-![Vercel](https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" /> <img src="https://img.shields.io/badge/FAISS-00599C?style=flat-square&logo=meta&logoColor=white" /> <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" />
 
-</div>
+</td>
+</tr>
+<tr>
+<td valign="top">
 
+**Tools & Cloud**
 <br/>
+<img src="https://skillicons.dev/icons?i=git,github,docker,aws,vscode,postman,linux,vercel" />
+
+</td>
+<td valign="top">
+
+**Currently Exploring**
+<br/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=flat-square&logo=openai&logoColor=white" /> <img src="https://img.shields.io/badge/RAG_Pipelines-black?style=flat-square" /> <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" /> <img src="https://img.shields.io/badge/Agentic_AI-6C3EF4?style=flat-square" />
+
+</td>
+</tr>
+</table>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🚀 Featured Projects
 
@@ -87,16 +90,34 @@ I'm a **Computer Science (AI & ML) undergrad** at VIT Bhopal University, buildin
 <tr>
 <td width="50%" valign="top">
 
-### 🔎 [Vector-Database: High-Dimensional Vector Search Engine](https://github.com/Parth-bot-crypto26)
-Vector database engineered from scratch in **C++** — HNSW, KD-Tree & brute-force search across 3 distance metrics, benchmarking O(log N) approximate retrieval against exact O(N·d) baselines. Full **RAG pipeline** with local LLM inference (Ollama + llama3.2), 250-word overlapping chunking, and token-level streaming over a REST API.
+### 🔎 [Vector-Database](https://github.com/Parth-bot-crypto26/Vector-Database)
+High-dimensional vector search engine built from scratch in C++ — HNSW, KD-Tree & brute-force search across 3 distance metrics, plus a full local RAG pipeline (Ollama + llama3.2) streaming answers over a REST API.
 
 `C++` `HNSW` `KD-Tree` `Ollama` `RAG`
 
 </td>
 <td width="50%" valign="top">
 
-### 🧬 Semantic Code Similarity: NLP Plagiarism Detector
-Compares Python source code **semantically, not syntactically** — tokenization, identifier normalization, mean-pooled Word2Vec/GloVe embeddings. Dual embedding backends, configurable similarity thresholds, and a Streamlit UI for batch analysis.
+### 🎓 [VITAMIN](https://github.com/Parth-bot-crypto26/VITAMIN)
+Microservices EdTech backend serving 20,000+ VIT students — FastAPI + MongoDB, Gemini-powered peer matching, offline-first sync via SQLite + Socket.io reconciliation.
+
+`FastAPI` `MongoDB` `Gemini API` `Socket.io` `React Native`
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 📡 [Netlyze](https://github.com/Netlyze/Netlyze)
+Predictive network traffic analyzer bridging C++ packet-capture with a Python ML inference service for real-time bottleneck prediction and congestion alerting.
+
+`C++` `Python` `scikit-learn` `Wireshark` `SQL`
+
+</td>
+<td width="50%" valign="top">
+
+### 🧬 [Semantic Code Similarity](https://github.com/Parth-bot-crypto26/semantic_code_similarity)
+NLP-based plagiarism detector comparing Python source semantically via Word2Vec/GloVe embeddings — flags renamed, reformatted, or obfuscated code with a Streamlit UI.
 
 `Python` `Word2Vec` `GloVe` `NLP` `Streamlit`
 
@@ -105,16 +126,16 @@ Compares Python source code **semantically, not syntactically** — tokenization
 <tr>
 <td width="50%" valign="top">
 
-### 📚 VITamin: Microservices EdTech Backend
-FastAPI backend + MongoDB schema for an EdTech platform serving **20,000+ students** — Gemini API-driven peer matching, independent service boundaries per module, offline-first sync via SQLite + Socket.io reconciliation.
+### 🛡️ [NetNinja](https://github.com/Parth-bot-crypto26/netninja)
+Gamified cyber-safety learning platform for kids aged 5–15, with an OpenAI-powered chatbot for age-appropriate, real-time security guidance.
 
-`FastAPI` `MongoDB` `Gemini API` `Socket.io`
+`React.js` `Firebase` `OpenAI API` `CSS3`
 
 </td>
 <td width="50%" valign="top">
 
-### 🎮 Subway Surfers Virtual Play: Real-Time HCI
-Real-time Human-Computer Interaction system controlling gameplay via **live body pose detection** — zero keyboard input. Custom calibration + landmark-tracking pipeline classifying 5 game actions from pose geometry.
+### 🏃 [Subway Surfers Virtual Play](https://github.com/Parth-bot-crypto26/Subway-Surfers-Virtual-Play)
+Real-time HCI system controlling Subway Surfers via live body-pose detection — MediaPipe landmark tracking mapped to gestures, zero keyboard input.
 
 `Python` `OpenCV` `MediaPipe` `PyAutoGUI`
 
@@ -124,70 +145,108 @@ Real-time Human-Computer Interaction system controlling gameplay via **live body
 
 <div align="center">
 
-*More on my [Portfolio](https://parth-portfolio-beryl.vercel.app/) — including Netlyze (predictive network traffic analyzer), NetNinja (cyber-safety platform for kids), and Sofias-website.*
+**[→ View all repositories](https://github.com/Parth-bot-crypto26?tab=repositories)**
 
 </div>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 🏅 Achievements & Certifications
 
 <table>
 <tr>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**Achievements**
-- 🏆 Amazon ML Summer School 2026 — top 2.2% of 1.34L+ applicants
-- ⚔️ Codeforces Pupil — max rating 1409
-- 🧩 900+ DSA problems (LeetCode, Codeforces, CodeChef)
-- 🥈 Finalist, HackTU 6.0 — top team of 800+
+**🏆 Highlights**
+- 🥇 Amazon ML Summer School 2026 — top 2.2% of 1.34 lakh+ registrations
+- 🥈 Finalist, HackTU 6.0 — top team among 3,500+ students, 800+ teams
+- ⚔️ Pupil rank on Codeforces (max rating 1409)
+- ✅ 900+ problems solved across LeetCode, Codeforces & CodeChef
+- ⭐ 5-Star badge on HackerRank (C++ & Python)
 
 </td>
-<td width="50%" valign="top">
+<td valign="top" width="50%">
 
-**Certifications**
+**📜 Certifications**
 - Oracle Agentic AI Certified Foundations Associate
-- 5-Day AI Agents (Google, via Kaggle)
-- Oracle Cloud Infrastructure — AI Foundations Associate
-- Applied ML in Python — University of Michigan
+- Oracle Cloud Infrastructure 2025 — AI Foundations Associate
+- Applied Machine Learning in Python — University of Michigan (Coursera)
+- 5-Day AI Agents Intensive Course — Google & Kaggle
+- AWS Technical Essentials
+- Cloud Computing & IoT — NPTEL, IIT Kharagpur
 
 </td>
 </tr>
 </table>
 
-<br/>
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
 
 ## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Parth-bot-crypto26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" height="165"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-bot-crypto26&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Parth-bot-crypto26&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
+<img height="165em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-bot-crypto26&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
 
 <br/>
 
-<img src="https://streak-stats.demolab.com?user=Parth-bot-crypto26&theme=tokyonight&hide_border=true" />
-
-</div>
-
-### 🐍 Live Contribution Graph
-
-<div align="center">
-
-<!--START_SECTION:snake-->
-<img src="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake-dark.svg" alt="snake animation" />
-<!--END_SECTION:snake-->
-
-</div>
-
-> ⚙️ This snake animation regenerates daily from my actual commit graph via GitHub Actions — see setup below.
+<img src="https://streak-stats.demolab.com?user=Parth-bot-crypto26&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 
 <br/>
 
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Parth-bot-crypto26&theme=tokyo-night&bg_color=0d1117&color=58A6FF&line=58A6FF&point=ffffff&hide_border=true" alt="Activity graph" />
+
+<br/>
+
+<img src="https://github-profile-trophy.vercel.app/?username=Parth-bot-crypto26&theme=tokyonight&no-frame=true&row=1&column=7" alt="Trophies" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🐍 Live Contribution Snake
+
+> Auto-updates every day via GitHub Actions — see setup instructions below.
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution snake animation" src="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake.svg">
+</picture>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 🧠 Coding Profiles
+
 <div align="center">
 
-![Profile Views](https://komarev.com/ghpvc/?username=Parth-bot-crypto26&color=58A6FF&style=for-the-badge&label=PROFILE+VIEWS)
+| Platform | Handle | Highlight |
+|---|---|---|
+| [LeetCode](https://leetcode.com/u/deshp_parth/) | `deshp_parth` | 900+ problems solved |
+| [Codeforces](https://codeforces.com/profile/Ash_26) | `Ash_26` | Pupil · Max rating 1409 |
+| [CodeChef](https://www.codechef.com/users/parthdeshpande) | `parthdeshpande` | Active competitive solver |
+| [HackerRank](https://www.hackerrank.com/profile/parth_23bai10120) | `parth_23bai10120` | 5-Star (C++, Python) |
+| [Codolio](https://codolio.com/profile/Ash_26) | `Ash_26` | Unified coding profile |
 
-<sub>Thanks for stopping by — let's build something.</sub>
+<img src="https://leetcard.jacoblin.cool/deshp_parth?theme=tokyo-night&font=JetBrains%20Mono&ext=contest" alt="LeetCode stats" />
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="100%">
+
+## 📫 Let's Connect
+
+<div align="center">
+
+<a href="https://parth-portfolio-beryl.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-050505?style=for-the-badge&logo=vercel&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/parth-deshpande-93578027b/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="mailto:deshpandeparth793@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+<a href="https://www.instagram.com/deshp_parth"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" /></a>
+
+<br/><br/>
+
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="900">
+
+<i>🌌 Building systems that scale, one commit at a time 🌌</i>
 
 </div>
