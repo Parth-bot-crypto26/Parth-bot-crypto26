@@ -215,16 +215,6 @@ learning: "Agentic AI · Advanced System Design · Low-Level Optimization"
 
 ---
 
-## 🐍 Contribution Snake
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake.svg">
-  <img alt="GitHub contribution snake" src="https://raw.githubusercontent.com/Parth-bot-crypto26/Parth-bot-crypto26/output/github-contribution-grid-snake.svg">
-</picture>
-
----
-
 <div align="center">
 
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:3B82F6,100:7C3AED&height=120&section=footer&text=Let's%20Build%20Something%20Extraordinary&fontSize=24&fontColor=fff&animation=fadeIn" width="100%"/>
