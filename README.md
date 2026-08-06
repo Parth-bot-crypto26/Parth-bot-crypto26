@@ -116,7 +116,7 @@ learning: "Agentic AI · Advanced System Design · Low-Level Optimization"
   <!-- Stats Grid -->
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=Parth-bot-crypto26&show_icons=true&theme=radical&hide_border=true&rank_icon=github&include_all_commits=true&count_private=true&v=2" height="180em" alt="GitHub Stats" />
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Parth-bot-crypto26&layout=compact&theme=radical&hide_border=true&langs_count=8&v=2" height="180em" alt="Top Languages" />
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Parth-bot-crypto26&theme=radical&hide_border=true&fire=FF6B6B&ring=7C3AED&currStreakLabel=7C3AED&v=3" alt="GitHub Streak" />
   </p>
 
   <!-- Streak Stats -->
