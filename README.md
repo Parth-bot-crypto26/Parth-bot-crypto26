@@ -45,7 +45,7 @@
 name: Parth Deshpande
 role: Systems & ML Engineer
 education: B.Tech CSE (AI & ML) @ VIT Bhopal
-cgpa: 8.97 / 10
+cgpa: 9.0 / 10
 location: Bhopal, India
 status: "Compiling Core..."
 
